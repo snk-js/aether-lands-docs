@@ -2,18 +2,20 @@
   "settings": {
     "migrated": 3,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 16,
+    "fontSize": 21,
     "emojiStyle": "none",
     "iconColor": "#85bbe5",
     "recentlyUsedIcons": [
-      "RaBall",
-      "RaAura",
-      "RaAnkh"
+      "TiYinYangFilled",
+      "RaMuscleUp",
+      "RiFocus2Line",
+      "LiEar",
+      "TiRun"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
-      "top": 0,
+      "top": 8,
       "right": 4,
       "bottom": 0,
       "left": 0
@@ -24,7 +26,17 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
   },
-  "root.md": "RaAnkh",
-  "Root traits": "RaBall",
-  "Root traits/Energy.md": "RaAura"
+  "Root traits": "TiSquareRoot",
+  "Root traits/Root trait.md": "TiSquareRoot",
+  "Elements": "RaExplosiveMaterials",
+  "Root traits/Physical": "BoBxBody",
+  "Root traits/Physical/Physical.md": "BoBxBody",
+  "Root traits/Physical/Agility.md": "TiRun",
+  "Root traits/Physical/Perception.md": "LiEar",
+  "Root traits/Physical/Precision.md": "RiFocus2Line",
+  "Root traits/Physical/Strength.md": "RaMuscleUp",
+  "Root traits/Mana": "RaLightningBolt",
+  "Root traits/Mana/Mana.md": "RaAura",
+  "index.md": "TiPoint",
+  "Root traits/Essence": "TiYinYangFilled"
 }

@@ -1,0 +1,1 @@
+A "root trait" refers to the fundamental characteristics or abilities from which a player can develop their character. These root traits are categorized into three main types: [[Essence]] [[Physical]] and [[Mana]].

@@ -1,4 +1,5 @@
 {
-  "accentColor": "",
-  "cssTheme": "Reverie"
+  "accentColor": "#f8b9eb",
+  "cssTheme": "Material Gruvbox",
+  "theme": "obsidian"
 }

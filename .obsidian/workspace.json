@@ -4,27 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3f446f8c58c9eee6",
+        "id": "eb07fcded087f5f0",
         "type": "tabs",
         "children": [
           {
-            "id": "5a3b2409de13c430",
+            "id": "f857b3594a1d87b6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c23fad61136805b4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,11 +140,47 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "97584d36cfb8d4de",
+  "active": "f857b3594a1d87b6",
   "lastOpenFiles": [
-    "root.md",
-    "Root traits/Energy.md",
+    "docs/Introduction.md",
+    "docs/Game overview.md",
+    "docs/index.md",
+    "Root traits/Physical/Physical.md",
+    "index.md",
+    "Root traits/Mana/Mana.md",
+    "Root traits/Mana/Influence.md",
+    "Root traits/Mana/Alchemy.md",
+    "Root traits/Mana/Enhancement.md",
+    "Root traits/Root trait.md",
+    "Root traits/Physical/Agility.md",
+    "Root traits/Mana/Spell.md",
+    "Root traits/Mana/Craft.md",
+    "Root traits/Essence/Essence.md",
+    "Root traits/Essence",
+    "Root traits/Essence.md",
+    "Root traits/Physical/Precision.md",
+    "Untitled",
+    "docs",
+    "Root traits/Physical/Strength.md",
+    "Root traits/Physical/Perception.md",
+    "Elements/Untitled.md",
+    "Elements/Elements.md",
+    "assets/sample_scenario_1.webp",
+    "assets/map_sample.webp",
+    "assets/AIdemo.webp",
+    "assets/map_sample.webp.crdownload",
+    "assets/sample_scenario_1.webp.crdownload",
+    "assets/AIdemo.webp.crdownload",
+    "assets",
+    "New folder",
+    "Excalidraw/Drawing 2024-01-19 14.08.16.excalidraw.md",
+    "Excalidraw",
     "Game Possibilities.md",
-    "Root traits"
+    "Elements/Fire.md",
+    "Elements/Cold.md",
+    "Elements/Water.md",
+    "Elements",
+    "Untitled.canvas",
+    "2023-12-18.md"
   ]
 }
