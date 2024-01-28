@@ -1,4 +1,6 @@
 
+coming from [[index|Root index]]
+
 | Section                   | Status        |
 |---------------------------|---------------|
 | [[Introduction]]              | In Progress   |

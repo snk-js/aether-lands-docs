@@ -11,8 +11,10 @@
             "id": "f857b3594a1d87b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "assets/realtime/first_creation_version2_battlefield.webp"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/realtime/first_creation_version2_battlefield.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/realtime/first_creation_version2_battlefield.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "assets/realtime/first_creation_version2_battlefield.webp"
+              }
             }
           }
         ]
@@ -140,47 +146,53 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "f857b3594a1d87b6",
+  "active": "149c8791c543cb63",
   "lastOpenFiles": [
-    "docs/Introduction.md",
-    "docs/Game overview.md",
-    "docs/index.md",
-    "Root traits/Physical/Physical.md",
-    "index.md",
+    "Root traits/Physical/Index.md",
+    "assets/map_sample.webp",
+    "assets/sample_scenario_1.webp",
+    "assets/AIdemo.webp",
+    "assets/traits/alchemy.png",
+    "assets/traits/enhancement.png",
+    "assets/traits/craft.png",
+    "assets/traits/spell.png",
+    "assets/traits/influence.png",
+    "assets/realtime/first_creation_version2_battlefield.webp",
+    "assets/realtime/first_creation_battlefield.webp",
+    "Root traits/index.md",
+    "Root traits/Essence/Index.md",
+    "Root traits/Physical/agility/Index.md",
+    "Root traits/Physical/agility/Initiciative.md",
+    "Root traits/Physical/Strength.md",
+    "Root traits/Physical/Precision.md",
+    "Root traits/Physical/Perception.md",
+    "Root traits/Physical/agility",
+    "Root traits/Essence/Dark.md",
+    "Root traits/Essence/Light.md",
     "Root traits/Mana/Mana.md",
+    "assets/realtime/utorrent_installer.exe",
+    "assets/realtime/Não confirmado 483251.crdownload",
+    "assets/realtime/first_creatio_version3_battlefield.webp.crdownload",
+    "assets/realtime/first_creation_version2_battlefield.webp.crdownload",
+    "assets/realtime/first_creation_battlefield.webp.crdownload",
+    "assets/realtime",
+    "assets/Nova pasta",
+    "assets/traits/DiscordSetup.exe",
+    "assets/traits/Não confirmado 190526.crdownload",
+    "docs/Introduction.md",
+    "docs/index.md",
+    "docs/Game overview.md",
+    "index.md",
+    "Elements/Water.md",
+    "Elements/Untitled.md",
+    "Elements/Fire.md",
+    "Elements/Elements.md",
     "Root traits/Mana/Influence.md",
     "Root traits/Mana/Alchemy.md",
     "Root traits/Mana/Enhancement.md",
-    "Root traits/Root trait.md",
-    "Root traits/Physical/Agility.md",
     "Root traits/Mana/Spell.md",
     "Root traits/Mana/Craft.md",
-    "Root traits/Essence/Essence.md",
-    "Root traits/Essence",
     "Root traits/Essence.md",
-    "Root traits/Physical/Precision.md",
-    "Untitled",
-    "docs",
-    "Root traits/Physical/Strength.md",
-    "Root traits/Physical/Perception.md",
-    "Elements/Untitled.md",
-    "Elements/Elements.md",
-    "assets/sample_scenario_1.webp",
-    "assets/map_sample.webp",
-    "assets/AIdemo.webp",
-    "assets/map_sample.webp.crdownload",
-    "assets/sample_scenario_1.webp.crdownload",
-    "assets/AIdemo.webp.crdownload",
-    "assets",
-    "New folder",
-    "Excalidraw/Drawing 2024-01-19 14.08.16.excalidraw.md",
-    "Excalidraw",
-    "Game Possibilities.md",
-    "Elements/Fire.md",
-    "Elements/Cold.md",
-    "Elements/Water.md",
-    "Elements",
-    "Untitled.canvas",
-    "2023-12-18.md"
+    "Untitled.canvas"
   ]
 }

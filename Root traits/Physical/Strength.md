@@ -1,3 +1,4 @@
+from [[Root traits/Physical/Index| Physical Index]]
 ### Strength
 - Embodies the character's physical power and endurance.
 - Directly impacts life points, signifying higher survivability in combat.

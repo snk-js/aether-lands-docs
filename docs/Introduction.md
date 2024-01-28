@@ -1,17 +1,11 @@
 # Summary
-from [[docs/index|index]]
+from [[docs/index|Doc Index]]
 
 |  |  |
 | ---- | ---- |
 | 1 | [[Game overview]] |
 | 2 | [[Mana \| Mana Types]] |
-
-
-Each Mana Type offers distinct advantages and strategic options, allowing players to tailor their approach to combat and exploration in the game world.
-
-### Essence
-- **Light**: Adds life and optimism, e.g., healing properties to water.
-- **Dark**: Adds pessimism and death, e.g., attack boost to fire projectiles.
+| 3 | [[Root traits/Essence/Index\|Essence]] |
 
 ## Turn Mechanics
 - **Structure**: Each round consists of two turns followed by a fight result.

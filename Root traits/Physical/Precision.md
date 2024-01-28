@@ -1,3 +1,4 @@
+from [[Root traits/Physical/Index| Physical Index]]
 ### Precision
 - Represents the active aspect of gameplay.
 - Tied to the character's ability to perform actions with high accuracy and skill.

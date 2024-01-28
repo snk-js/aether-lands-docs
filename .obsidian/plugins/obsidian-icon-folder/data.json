@@ -27,16 +27,17 @@
     "iconsInNotesEnabled": true
   },
   "Root traits": "TiSquareRoot",
-  "Root traits/Root trait.md": "TiSquareRoot",
   "Elements": "RaExplosiveMaterials",
   "Root traits/Physical": "BoBxBody",
-  "Root traits/Physical/Physical.md": "BoBxBody",
-  "Root traits/Physical/Agility.md": "TiRun",
   "Root traits/Physical/Perception.md": "LiEar",
   "Root traits/Physical/Precision.md": "RiFocus2Line",
   "Root traits/Physical/Strength.md": "RaMuscleUp",
   "Root traits/Mana": "RaLightningBolt",
   "Root traits/Mana/Mana.md": "RaAura",
   "index.md": "TiPoint",
-  "Root traits/Essence": "TiYinYangFilled"
+  "Root traits/Essence": "TiYinYangFilled",
+  "Root traits/index.md": "TiSquareRoot",
+  "Root traits/Physical/agility/Index.md": "TiRun",
+  "Root traits/Physical/Index.md": "BoBxBody",
+  "Root traits/Physical/agility": "TiRun"
 }

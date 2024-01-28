@@ -1,3 +1,4 @@
+from [[Root traits/Physical/Index| Physical Index]]
 ### Perception
 - Represents the passive aspect of gameplay.
 - Crucial for awareness and understanding of the game environment and enemy movements.
