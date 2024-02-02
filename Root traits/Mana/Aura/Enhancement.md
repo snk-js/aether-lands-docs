@@ -1,4 +1,4 @@
-from [[Mana]]
+from [[Root traits/Mana/index]]
 ### Enhancement (Enhancer)
 - Focuses on amplifying personal abilities or the properties of objects.
 - Users typically exhibit significant physical strength.

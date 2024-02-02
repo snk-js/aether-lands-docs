@@ -6,7 +6,7 @@
     "emojiStyle": "none",
     "iconColor": "#85bbe5",
     "recentlyUsedIcons": [
-      "TiYinYangFilled",
+      "BoBxsFlask",
       "RaMuscleUp",
       "RiFocus2Line",
       "LiEar",
@@ -29,15 +29,14 @@
   "Root traits": "TiSquareRoot",
   "Elements": "RaExplosiveMaterials",
   "Root traits/Physical": "BoBxBody",
-  "Root traits/Physical/Perception.md": "LiEar",
-  "Root traits/Physical/Precision.md": "RiFocus2Line",
-  "Root traits/Physical/Strength.md": "RaMuscleUp",
   "Root traits/Mana": "RaLightningBolt",
-  "Root traits/Mana/Mana.md": "RaAura",
   "index.md": "TiPoint",
   "Root traits/Essence": "TiYinYangFilled",
-  "Root traits/index.md": "TiSquareRoot",
-  "Root traits/Physical/agility/Index.md": "TiRun",
-  "Root traits/Physical/Index.md": "BoBxBody",
-  "Root traits/Physical/agility": "TiRun"
+  "Root traits/Mana/Aura": "RaAura",
+  "Root traits/Mana/index.md": "RaAura",
+  "Root traits/Physical/Perception": "LiEar",
+  "Root traits/Physical/Precision": "RiFocus2Line",
+  "Root traits/Physical/Agility": "TiRun",
+  "Root traits/Physical/Strength": "RaMuscleUp",
+  "Dynamics": "BoBxsFlask"
 }

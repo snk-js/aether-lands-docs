@@ -1,4 +1,4 @@
-from [[Mana]]
+from [[Root traits/Mana/index]]
 ### Alchemy (Alchemist)
 - Involves transforming the inherent qualities of the user's aura into various elemental forms.
 - Capable of creating elemental effects such as shockwaves, flames, or ice.

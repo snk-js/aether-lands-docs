@@ -1,4 +1,4 @@
-from [[Mana]]
+from [[Root traits/Mana/index]]
 ### Craft (Crafter)
 - Focuses on creating tangible objects or constructs from the user's aura.
 - Abilities might include conjuring barriers, weapons, or even creating clones for deception or attack.

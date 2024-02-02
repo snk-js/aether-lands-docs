@@ -1,10 +1,10 @@
-from [[Root traits/index| Root Trait Index]]
+from [[Root traits/Index| Root Trait Index]]
 # Traits
 
-### 1. [[Strength]]
-### 2.[[Root traits/Physical/agility/Index | Agility]]
-### 3. [[Precision]]
-### 4. [[Perception]]
+### 1. [[Root traits/Physical/Strength/Index| Strength]]
+### 2.[[Root traits/Physical/Agility/Index| Agility]]
+### 3. [[Root traits/Physical/Precision/Index|Precision]]
+### 4. [[Root traits/Physical/Perception/Index|Perception]]
 
 ### Description
 Each of these traits plays a vital role in shaping a character's capabilities and defining their role in the game's strategic landscape. This detailed approach to character attributes allows for diverse and nuanced gameplay experiences.

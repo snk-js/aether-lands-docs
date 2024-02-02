@@ -4,20 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "eb07fcded087f5f0",
+        "id": "655dfd4851740dd9",
         "type": "tabs",
         "children": [
           {
-            "id": "f857b3594a1d87b6",
+            "id": "9226ed9594a8c6be",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/realtime/first_creation_version2_battlefield.webp"
+                "file": "Root traits/Index.md",
+                "mode": "source",
+                "source": false
               }
             }
+          },
+          {
+            "id": "4452ceb6c7664a98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamics/Gameplay/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f70ab9afd1877b4c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/realtime/first_creation_version2_battlefield.webp",
+                "file": "Dynamics/Gameplay/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/realtime/first_creation_version2_battlefield.webp",
+                "file": "Dynamics/Gameplay/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/realtime/first_creation_version2_battlefield.webp"
+                "file": "Dynamics/Gameplay/Index.md"
               }
             }
           }
@@ -146,53 +169,54 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "149c8791c543cb63",
+  "active": "4452ceb6c7664a98",
   "lastOpenFiles": [
+    "Root traits/Physical/Perception/Index.md",
+    "Dynamics/Gameplay/Index.md",
+    "Dynamics/Turn/Index.md",
+    "Root traits/Index.md",
+    "Mechanics/Untitled.md",
+    "Dynamics/Gameplay",
+    "index.md",
+    "Root traits/Physical/Agility/Index.md",
+    "Dynamics/Turn",
+    "Mechanics/Turn.md",
+    "Dynamics",
+    "Root traits/3xTree.md",
     "Root traits/Physical/Index.md",
-    "assets/map_sample.webp",
-    "assets/sample_scenario_1.webp",
-    "assets/AIdemo.webp",
-    "assets/traits/alchemy.png",
-    "assets/traits/enhancement.png",
-    "assets/traits/craft.png",
-    "assets/traits/spell.png",
-    "assets/traits/influence.png",
-    "assets/realtime/first_creation_version2_battlefield.webp",
-    "assets/realtime/first_creation_battlefield.webp",
-    "Root traits/index.md",
-    "Root traits/Essence/Index.md",
-    "Root traits/Physical/agility/Index.md",
-    "Root traits/Physical/agility/Initiciative.md",
-    "Root traits/Physical/Strength.md",
-    "Root traits/Physical/Precision.md",
-    "Root traits/Physical/Perception.md",
-    "Root traits/Physical/agility",
-    "Root traits/Essence/Dark.md",
-    "Root traits/Essence/Light.md",
-    "Root traits/Mana/Mana.md",
-    "assets/realtime/utorrent_installer.exe",
-    "assets/realtime/Não confirmado 483251.crdownload",
-    "assets/realtime/first_creatio_version3_battlefield.webp.crdownload",
-    "assets/realtime/first_creation_version2_battlefield.webp.crdownload",
-    "assets/realtime/first_creation_battlefield.webp.crdownload",
-    "assets/realtime",
-    "assets/Nova pasta",
-    "assets/traits/DiscordSetup.exe",
-    "assets/traits/Não confirmado 190526.crdownload",
+    "Root traits/Mana/Aura/Spell.md",
+    "Root traits/Mana/Aura/Influence.md",
+    "Root traits/Mana/Aura/Enhancement.md",
+    "Root traits/Mana/Aura/Craft.md",
+    "Root traits/Mana/Aura/Alchemy.md",
+    "Root traits/Physical/Precision/Index.md",
+    "Root traits/Physical/Strength/Index.md",
+    "Root traits/Physical/Strength/Force.md",
+    "Root traits/Physical/Agility/Acrobat.md",
+    "Root traits/Mana/index.md",
+    "Root traits/Physical/Strength/Resilience.md",
+    "Root traits/Physical/Agility/Reflex.md",
     "docs/Introduction.md",
     "docs/index.md",
     "docs/Game overview.md",
-    "index.md",
-    "Elements/Water.md",
-    "Elements/Untitled.md",
-    "Elements/Fire.md",
-    "Elements/Elements.md",
-    "Root traits/Mana/Influence.md",
-    "Root traits/Mana/Alchemy.md",
-    "Root traits/Mana/Enhancement.md",
-    "Root traits/Mana/Spell.md",
-    "Root traits/Mana/Craft.md",
-    "Root traits/Essence.md",
+    "Root traits/Essence/Index.md",
+    "Root traits/Physical/Strength",
+    "Root traits/Physical/Precision",
+    "Root traits/Physical/Perception",
+    "assets/traits/alchemy.png",
+    "assets/traits/enhancement.png",
+    "assets/traits/influence.png",
+    "assets/traits/spell.png",
+    "assets/traits/craft.png",
+    "assets/realtime/first_creation_version2_battlefield.webp",
+    "assets/realtime/first_creation_battlefield.webp",
+    "assets/realtime/first_creatio_version3_battlefield.webp",
+    "assets/AIdemo.webp",
+    "assets/traits",
+    "assets/realtime",
+    "Root traits/Physical/Agility",
+    "Root traits/Mana/Aura",
+    "assets/sample_scenario_1.webp",
     "Untitled.canvas"
   ]
 }

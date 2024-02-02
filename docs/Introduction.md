@@ -1,10 +1,10 @@
 # Summary
 from [[docs/index|Doc Index]]
 
-|  |  |
+| index | Topic |
 | ---- | ---- |
 | 1 | [[Game overview]] |
-| 2 | [[Mana \| Mana Types]] |
+| 2 | [[Root traits/Mana/index\| Mana Types]] |
 | 3 | [[Root traits/Essence/Index\|Essence]] |
 
 ## Turn Mechanics

@@ -1,4 +1,4 @@
-from [[Mana]]
+from [[Root traits/Mana/index]]
 ### Spell (Magician/Spell Caster)
 - Centers on detaching aura from the body to create external magical effects.
 - Can be used for a wide range of offensive or defensive purposes.
