@@ -26,17 +26,6 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
   },
-  "Root traits": "TiSquareRoot",
-  "Elements": "RaExplosiveMaterials",
-  "Root traits/Physical": "BoBxBody",
-  "Root traits/Mana": "RaLightningBolt",
   "index.md": "TiPoint",
-  "Root traits/Essence": "TiYinYangFilled",
-  "Root traits/Mana/Aura": "RaAura",
-  "Root traits/Mana/index.md": "RaAura",
-  "Root traits/Physical/Perception": "LiEar",
-  "Root traits/Physical/Precision": "RiFocus2Line",
-  "Root traits/Physical/Agility": "TiRun",
-  "Root traits/Physical/Strength": "RaMuscleUp",
   "Dynamics": "BoBxsFlask"
 }

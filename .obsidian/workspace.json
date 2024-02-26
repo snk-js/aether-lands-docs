@@ -25,22 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamics/Gameplay/Index.md",
+                "file": "Root traits/Mana/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f70ab9afd1877b4c",
+            "id": "5bda13c00d7975d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamics/Gameplay/Index.md",
+                "file": "Root traits/Mana/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamics/Gameplay/Index.md",
+                "file": "Root traits/Mana/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamics/Gameplay/Index.md"
+                "file": "Root traits/Mana/index.md"
               }
             }
           }
@@ -169,37 +171,37 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4452ceb6c7664a98",
+  "active": "5bda13c00d7975d8",
   "lastOpenFiles": [
-    "Root traits/Physical/Perception/Index.md",
-    "Dynamics/Gameplay/Index.md",
-    "Dynamics/Turn/Index.md",
-    "Root traits/Index.md",
-    "Mechanics/Untitled.md",
-    "Dynamics/Gameplay",
-    "index.md",
-    "Root traits/Physical/Agility/Index.md",
-    "Dynamics/Turn",
-    "Mechanics/Turn.md",
-    "Dynamics",
     "Root traits/3xTree.md",
     "Root traits/Physical/Index.md",
+    "Root traits/Mana/index.md",
+    "Root traits/Physical/Agility/Initiative.md",
+    "Root traits/Physical/Agility/Acrobat.md",
+    "Root traits/Physical/Agility/Index.md",
     "Root traits/Mana/Aura/Spell.md",
     "Root traits/Mana/Aura/Influence.md",
     "Root traits/Mana/Aura/Enhancement.md",
     "Root traits/Mana/Aura/Craft.md",
     "Root traits/Mana/Aura/Alchemy.md",
-    "Root traits/Physical/Precision/Index.md",
-    "Root traits/Physical/Strength/Index.md",
-    "Root traits/Physical/Strength/Force.md",
-    "Root traits/Physical/Agility/Acrobat.md",
-    "Root traits/Mana/index.md",
-    "Root traits/Physical/Strength/Resilience.md",
-    "Root traits/Physical/Agility/Reflex.md",
-    "docs/Introduction.md",
-    "docs/index.md",
-    "docs/Game overview.md",
+    "Root traits/Essence/Light.md",
     "Root traits/Essence/Index.md",
+    "Root traits/Essence/Dark.md",
+    "Elements/Water.md",
+    "Elements/Elements.md",
+    "Elements/Fire.md",
+    "Dynamics/Turn/Index.md",
+    "Dynamics/Gameplay/Index.md",
+    "docs/Introduction.md",
+    "docs/Game overview.md",
+    "docs/index.md",
+    "Root traits/Index.md",
+    "Root traits/Physical/Perception/Index.md",
+    "Mechanics/Untitled.md",
+    "Dynamics/Gameplay",
+    "index.md",
+    "Dynamics/Turn",
+    "Dynamics",
     "Root traits/Physical/Strength",
     "Root traits/Physical/Precision",
     "Root traits/Physical/Perception",
